@@ -6,7 +6,7 @@
 <p align="justify">Un jour un jeun développeur au doux prénom de <b>Louka</b>, programmait comme à son habitude, quand soudain une coupure de courant s'abatit sur son quartier. Il sortit voir ce qu'il se passait, et à ça grande surprise...<b>ça maison vole dans l'espace !!!</b></br>
 Il tomba au sol sur son cul, et se demanda:
 
-> "Punaise !! Que se passe t-il?!"</br>
+> <i>"Punaise !! Que se passe t-il?!"</i></br>
 
 D'un coup un vaisseau spatial ce pose à côté de sa maison, mais le temps que <i>3 ombres</i> apparaissent, il accouru vers sa porte d'entré et se barricada. Et d'un coup... <b>Ding Dong</b><p>
 
