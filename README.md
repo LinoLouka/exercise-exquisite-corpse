@@ -1,2 +1,1 @@
-# exercise-exquisite-corpse
-Your challenge will be to write crazy stories with your group in a game of exquisite corpse.
+<h1 align=center>Jeune programmeur</h1></n></n></n>
